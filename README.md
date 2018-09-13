@@ -7,5 +7,10 @@
     Why this website needs updates or a remake ? front end laid, vente en ligne à l'air d'être ok
     Is this website present on social networks ? non 
     Make a list of recomandations of futur changes front-end, réseaux sociaux, changer menu car peu intuitif, chager e-shop et catalogue car peu fonctionnel. 
-    By group, present your markdown and the website 
+    By group, present your markdown and the website.
+    Recommandation:
+     Front-end to improve
+     better visibility on social medias:facebook,twitter
+     improve the e-shop
+       
 
